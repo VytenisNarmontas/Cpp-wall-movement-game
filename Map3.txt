@@ -1,0 +1,20 @@
+19 19 9 9
+xxxxx#########xxxxx
+xxx##xxxxxxxxx##xxx
+xx#xxx#xxxxxxxxx#xx
+x#xxxxxxxxx#oxxxx#x
+x#xx#xxxxxxxxxxxx#x
+#o#xxxxxxxxx#xxx#x#
+#xxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxxxo#x#
+#xxxx#xxxxxxxxxxx##
+#xxxxxxxxx#xxxxxxx#
+#xxxxxxxxxxxxxxxxo#
+#xxxxxx#xxxxxxxxxx#
+#xxxxxxxxxxxxo#x#o#
+x#xxxxxxxxxxo#xxx#x
+x###xxxxxxxxxoxxo#x
+xx#oxxxxxxxxxxxx#xx
+xxx##xxxxxxxxx##xxx
+xxxxx#########xxxxx

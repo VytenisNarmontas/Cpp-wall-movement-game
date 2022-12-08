@@ -1,0 +1,21 @@
+19 20 1 17
+###################
+#xxxxxxx#o#xxxxxxx#
+#xxxxxx##oo#xxxxxx#
+#xxxxx#oooo#xxxxxx#
+#xxxxx#ooooo#xxxxx#
+#xxxx#oooooo#xxxxx#
+#xxxx#ooooooo#xxxx#
+#xxx#oooooooo#xxxx#
+#xxx#ooooooooo#xxx#
+#xx#oooooooooo#xxx#
+#xx#ooooooooooo#xx#
+#x#oooooooooooo#xx#
+#x#ooooooooooooo#x#
+##oooooooooooooo#x#
+##ooooooooooooooo##
+#oooooooooooooooo##
+#ooooooooooooooooo#
+#ooooooooooooooooo#
+#########o#########
+xxxxxxxx###xxxxxxxx

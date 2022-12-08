@@ -1,0 +1,11 @@
+10 10 4 4
+##########
+#oooxxxxx#
+####xxxxx#
+#xEExxxxo#
+#oxx@x##x#
+#xxoxxo#x#
+#xx#xxx#x#
+#xx#xxxxo#
+#oxxxxx###
+##########
